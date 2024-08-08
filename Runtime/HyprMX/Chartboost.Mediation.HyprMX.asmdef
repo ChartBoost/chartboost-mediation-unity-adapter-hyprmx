@@ -1,0 +1,21 @@
+{
+    "name": "Chartboost.Mediation.HyprMX",
+    "rootNamespace": "Chartboost.Mediation.HyprMX",
+    "references": [
+        "Chartboost.Threading",
+        "Chartboost.Logging",
+        "Chartboost.Utilities",
+        "Chartboost.Mediation"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
