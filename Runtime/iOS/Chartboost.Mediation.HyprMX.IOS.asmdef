@@ -1,0 +1,25 @@
+{
+    "name": "Chartboost.Mediation.HyprMX.IOS",
+    "rootNamespace": "Chartboost.Mediation.HyprMX.IOS",
+    "references": [
+        "Chartboost.Threading",
+        "Chartboost.Logging",
+        "Chartboost.Mediation.HyprMX",
+        "Chartboost.Mediation",
+        "Chartboost.Utilities.IOS"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
